@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "week1-ungraded-lab"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.12"
+cvlib = "^0.2.7"
+opencv-python-headless = "^4.9.0"
+pillow = "^10.2.0"
+uvicorn = "^0.25.0"
+python-multipart = "^0.0.6"
+fastapi = "^0.109.0"
+nest-asyncio = "^1.5.8"
+tensorflow = "^2.15.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
