@@ -2,7 +2,7 @@
 
 Repository to reproduce the examples in the course [Machine Learning For Production][mlcourse-link].
 
-This repo is based on the [original course repository][original-repo] but updated to use poetry instead of requirements.txt for dependency management and python scripts instead of notebooks.
+This repo is a recreation based on the [original course repository][original-repo] for personal study.
 
 [mlcourse-link]: https://www.deeplearning.ai/courses/machine-learning-engineering-for-production-mlops/
 [original-repo]: https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public
@@ -26,3 +26,7 @@ You can also use the client script to test the endpoint:
 poetry shell
 python client.py
 ```
+
+### Week 2
+
+Explore the jupyter notebook
